@@ -2,7 +2,7 @@
 ## Prerequisites
 1. `k3s` cluster up and running
 1. `helm` installed
-1. [`Prometheus`](../prometheus/README.md) deployed
+1. [`Prometheus`](https://github.com/nmparfyonov/rsschool-devops-course-tasks/blob/feat/task-7/prometheus/README.md) deployed
 ## Deploy grafana
 ### Manual
 1. Add bitnami helm chart repo
